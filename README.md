@@ -30,4 +30,4 @@ The main goal was to identify trends, clean and process data, and build a data p
 
 ## 🔗 Certificate
 
-- [IBM Data Science Professional Certificate – Coursera](#) *([https://coursera.org/share/a57d67fef374f8abae7e0aaaaf0c5145]
+- [IBM Data Science Professional Certificate – Coursera](https://coursera.org/share/4f30981d3ebe7e36a73aa3370f1e3bf3) 
